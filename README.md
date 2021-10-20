@@ -1,0 +1,1 @@
+First project within 'The Odin Project' curriculum.  This project is to demonstrate the HTML knowledge build a basic recipe website. This also shows the usage of git and Github to create, clone, and push a project to the repository.
